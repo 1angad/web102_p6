@@ -28,6 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![web102_p6-min](https://github.com/1angad/web102_p6/assets/96559688/fa012c61-e270-42c0-a561-62f24d838137)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
